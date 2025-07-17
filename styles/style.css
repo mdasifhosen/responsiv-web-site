@@ -229,3 +229,21 @@ main > section{
         margin-left: 20px;
     }
 }
+
+
+.para{
+    max-width: 1140px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 130px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.foot{
+    
+    text-align: center;
+    font-size: 1.2rem;
+}
