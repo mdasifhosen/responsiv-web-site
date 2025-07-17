@@ -204,7 +204,8 @@ main > section{
     .navbar, 
     .nav-link ,
     .features,
-    .teams{
+    .teams,
+    .para{
         flex-direction: column;
     }
     .teams-img-container ,
